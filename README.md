@@ -1,0 +1,2 @@
+# MGDNet
+Seismic data denoising
